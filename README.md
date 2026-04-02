@@ -23,7 +23,7 @@
 ## 🧬 `$ whoami`
 
 ```python
-class Taynara:
+class Tayna:
     def __init__(self):
         self.nome       = "Tayná Berthoud Marques"
         self.formação   = [ "ADS","Engenharia de Software (em andamento)"]
@@ -73,17 +73,6 @@ class Taynara:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Taybm16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taybm16&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🌱 Atualmente aprendendo
 
@@ -91,7 +80,7 @@ class Taynara:
 $ pip install conhecimento --upgrade
 
 > Instalando: Lógica de Programação     ████████████ 100%
-> Instalando: Python Avançado           ████████░░░░  70%
+> Instalando: Python Avançado           ████████░░░░  50%
 > Instalando: Frameworks Web            ██████░░░░░░  50%
 > Instalando: Banco de Dados            ████░░░░░░░░  35%
 > Instalando: Clean Code & Boas Práticas █████░░░░░░  45%
